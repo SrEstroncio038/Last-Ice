@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 35ea8a39767f1a14e873458cd509fa2e
+guid: de58ff4a5fcf31540979ca36ae958584
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8292975643572770559
-    second: Game Boy Advance - Donkey Kong Country 3 - Backgrounds - Snow_0
+      213: -4175963351383343652
+    second: Paisaje alpino invernal pixelado_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,12 +113,34 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Paisaje alpino invernal pixelado_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2172
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cddfeb5057ffb06c0800000000000000
+      internalID: -4175963351383343652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: a02e45353e9a7984a935f9f7616939e9
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -128,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Game Boy Advance - Donkey Kong Country 3 - Backgrounds - Snow_0: -8292975643572770559
+      Paisaje alpino invernal pixelado_0: -4175963351383343652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

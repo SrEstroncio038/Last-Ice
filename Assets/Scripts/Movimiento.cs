@@ -24,11 +24,13 @@ public class scriptMovimiento : MonoBehaviour
         Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
         Vector3 direccion = new Vector3(input.x, 0, input.y);
         transform.position += direccion * velocidad * Time.deltaTime;
+        animator.SetFloat("v", Mathf.Abs(direccion.x));
         if (input.x > 0)
         {
-            sr.flipX=true;
+            sr.flipX=false;
+
         }else if(input.x < 0){
-            sr.flipX=false;  
+            sr.flipX=true;  
         }
     
         if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
