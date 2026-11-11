@@ -23,28 +23,29 @@ public class scriptMovimiento : MonoBehaviour
     {
         Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
         Vector3 direccion = new Vector3(input.x, 0, input.y);
-        transform.position += direccion * velocidad * Time.deltaTime;
+        rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
+        animator.SetFloat("velocidad", Mathf.Abs(direccion.x));
         if (input.x > 0)
         {
-            sr.flipX=true;
+            sr.flipX=false;
+
         }else if(input.x < 0){
-            sr.flipX=false;  
+            sr.flipX=true;  
         }
     
         if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
         {
-            rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
-            animator.SetTrigger("Salto");     
+            rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);     
             enSuelo=false;
         }
         
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Suelo"))
+        if (collision.gameObject.CompareTag("suelo"))
         {
             enSuelo = true;
-            animator.SetBool("IsFalling", false);
+            
         }
     }
 }
