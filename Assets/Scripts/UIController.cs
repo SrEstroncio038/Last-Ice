@@ -35,7 +35,7 @@ public class UIController : MonoBehaviour
         {
             espera = 1;
         }
-        while (int.Parse(textoVida.text) > 0 )
+        while (int.Parse(textoVida.text) > 0)
         {
             if (curando)
             {
@@ -45,11 +45,12 @@ public class UIController : MonoBehaviour
             else if (enAgua)
             {
                 await Awaitable.WaitForSecondsAsync(0.08f); //esperar los segundos  antes de actualizar la vida de nuevo
-                actualizarVida(); 
-            }else
+                actualizarVida();
+            }
+            else
             {
                 await Awaitable.WaitForSecondsAsync(espera); //esperar los segundos  antes de actualizar la vida de nuevo
-                actualizarVida(); 
+                actualizarVida();
             }
 
         }
@@ -59,13 +60,17 @@ public class UIController : MonoBehaviour
     public void actualizarVida()
     {
         int nuevaVida = int.Parse(textoVida.text) - 1;
+        if (nuevaVida <= 0)
+        {
+            nuevaVida = 0;
+        }
         textoVida.text = nuevaVida.ToString();
     }
 
     public async void curar()
     {
         int nuevaVida = int.Parse(textoVida.text) + 2;
-        if(nuevaVida >= 100)
+        if (nuevaVida >= 100)
         {
             nuevaVida = 100;
         }

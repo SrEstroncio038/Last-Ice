@@ -11,6 +11,7 @@ public class scriptMovimiento : MonoBehaviour
     private SpriteRenderer sr;
     private Animator animator;
     [SerializeField] UIController controller;
+    private bool estaMuerto = false;
     private bool enSuelo = false;
     void Start()
     {
@@ -22,7 +23,9 @@ public class scriptMovimiento : MonoBehaviour
 
     void Update()
     {
-        if (int.Parse(controller.textoVida.text) > 0)
+        if (!estaMuerto)
+        {
+            if (int.Parse(controller.textoVida.text) > 0 )
         {
             Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
             rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
@@ -43,6 +46,14 @@ public class scriptMovimiento : MonoBehaviour
                 enSuelo = false;
             }
         }
+        else
+        {
+            controller.textoVida.text = "0";
+            animator.SetTrigger("death");
+            estaMuerto = true;
+        }
+        }
+        
 
 
     }
