@@ -10,8 +10,7 @@ public class scriptMovimiento : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private Animator animator;
-    public int vida = 2;
-
+    [SerializeField] UIController controller;
     private bool enSuelo = false;
     void Start()
     {
@@ -23,12 +22,11 @@ public class scriptMovimiento : MonoBehaviour
 
     void Update()
     {
-        if (vida > 0)
+        if (int.Parse(controller.textoVida.text) > 0)
         {
             Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
-            Vector3 direccion = new Vector3(input.x, 0, input.y);
             rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
-            animator.SetFloat("velocidad", Mathf.Abs(direccion.x));
+            animator.SetFloat("velocidad", Mathf.Abs(rb.linearVelocityX));
             if (input.x > 0)
             {
                 sr.flipX = false;
@@ -58,8 +56,18 @@ public class scriptMovimiento : MonoBehaviour
         if (collision.gameObject.CompareTag("lava"))
         {
             enSuelo = true;
-            vida = 0;
+            controller.textoVida.text = "0";
             animator.SetTrigger("death");
         }
+    }
+
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        if (collider.gameObject.CompareTag("deathZone"))
+        {
+            controller.textoVida.text = "0";
+            animator.SetTrigger("death");
+        }
+
     }
 }

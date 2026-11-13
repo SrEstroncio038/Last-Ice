@@ -1,0 +1,704 @@
+fileFormatVersion: 2
+guid: 054b5bacb04ef894e9a2f9db7646a262
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1245255812537731353
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_0
+  - first:
+      213: 2197764687256113077
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_1
+  - first:
+      213: -4704838349871241569
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_2
+  - first:
+      213: 799368326118092705
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_3
+  - first:
+      213: -976224128151660970
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_4
+  - first:
+      213: -315069240234991303
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_5
+  - first:
+      213: 3866164947454876507
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_6
+  - first:
+      213: -5062202538361009747
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_7
+  - first:
+      213: 3462037166515458714
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_8
+  - first:
+      213: 3081232125244592493
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_9
+  - first:
+      213: 2660984932979794007
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_10
+  - first:
+      213: 1398463382111633202
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_11
+  - first:
+      213: 7247163153553819854
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_12
+  - first:
+      213: 6327778497784208930
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_13
+  - first:
+      213: 8391463447114327709
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_14
+  - first:
+      213: -1951029196765986294
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_15
+  - first:
+      213: -6204487298873530089
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_16
+  - first:
+      213: 7885100950591618640
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_17
+  - first:
+      213: -6713159392847362938
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_18
+  - first:
+      213: -6674681470554094073
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_19
+  - first:
+      213: 6403091638766158836
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_20
+  - first:
+      213: 7740076790576559741
+    second: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 297
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194dc85099084110800000000000000
+      internalID: 1245255812537731353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 297
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf4ccbb657008e10800000000000000
+      internalID: 2197764687256113077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f962a46b27e05beb0800000000000000
+      internalID: -4704838349871241569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 298
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa7f2e14de71b00800000000000000
+      internalID: 799368326118092705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_4
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 298
+        width: 65
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656da54e351c372f0800000000000000
+      internalID: -976224128151660970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 299
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93124200236a0abf0800000000000000
+      internalID: -315069240234991303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 201
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b5d10398067a530800000000000000
+      internalID: 3866164947454876507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 201
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da949efac917fb9b0800000000000000
+      internalID: -5062202538361009747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a929a55d570ab0030800000000000000
+      internalID: 3462037166515458714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_9
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 200
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61d9b7fa4cb2ca20800000000000000
+      internalID: 3081232125244592493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 116
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506de2b2b7bde420800000000000000
+      internalID: 2660984932979794007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 117
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb7226907586310800000000000000
+      internalID: 1398463382111633202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 117
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec800e4bd78139460800000000000000
+      internalID: 7247163153553819854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_13
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 117
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e58c98409c0d750800000000000000
+      internalID: 6327778497784208930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_14
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 91
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96ace69b87747470800000000000000
+      internalID: 8391463447114327709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020954584d8ce4e0800000000000000
+      internalID: -1951029196765986294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 25
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7196839acab35e9a0800000000000000
+      internalID: -6204487298873530089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 28
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebb1a99818d6d60800000000000000
+      internalID: 7885100950591618640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68481cc991116d2a0800000000000000
+      internalID: -6713159392847362938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_19
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706cdb60194ce53a0800000000000000
+      internalID: -6674681470554094073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_20
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 25
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f34ee0abe95cd850800000000000000
+      internalID: 6403091638766158836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 32
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76bf8415d64a6b60800000000000000
+      internalID: 7740076790576559741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_0: 1245255812537731353
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_1: 2197764687256113077
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_10: 2660984932979794007
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_11: 1398463382111633202
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_12: 7247163153553819854
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_13: 6327778497784208930
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_14: 8391463447114327709
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_15: -1951029196765986294
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_16: -6204487298873530089
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_17: 7885100950591618640
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_18: -6713159392847362938
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_19: -6674681470554094073
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_2: -4704838349871241569
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_20: 6403091638766158836
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_21: 7740076790576559741
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_3: 799368326118092705
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_4: -976224128151660970
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_5: -315069240234991303
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_6: 3866164947454876507
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_7: -5062202538361009747
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_8: 3462037166515458714
+      PlayStation Portable - Star Ocean_ Second Evolution - Enemies - Snow Man (1)_9: 3081232125244592493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
