@@ -10,9 +10,11 @@ public class scriptMovimiento : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private Animator animator;
-
+    [SerializeField] UIController controller;
+    private bool estaMuerto = false;
     private bool enSuelo = false;
-    void Start(){
+    void Start()
+    {
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
@@ -21,30 +23,65 @@ public class scriptMovimiento : MonoBehaviour
 
     void Update()
     {
-        Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
-        Vector3 direccion = new Vector3(input.x, 0, input.y);
-        transform.position += direccion * velocidad * Time.deltaTime;
-        if (input.x > 0)
+        if (!estaMuerto)
         {
-            sr.flipX=true;
-        }else if(input.x < 0){
-            sr.flipX=false;  
+            if (int.Parse(controller.textoVida.text) > 0)
+            {
+                Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
+                rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
+                animator.SetFloat("velocidad", Mathf.Abs(rb.linearVelocityX));
+                if (input.x > 0)
+                {
+                    sr.flipX = false;
+
+                }
+                else if (input.x < 0)
+                {
+                    sr.flipX = true;
+                }
+
+                if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
+                {
+                    rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
+                    enSuelo = false;
+                }
+            }
+            else
+            {
+               muerte();
+            }
         }
-    
-        if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
-        {
-            rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
-            animator.SetTrigger("Salto");     
-            enSuelo=false;
-        }
-        
+
+
+
     }
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Suelo"))
+        if (collision.gameObject.CompareTag("suelo"))
         {
             enSuelo = true;
-            animator.SetBool("IsFalling", false);
+
         }
+        if (collision.gameObject.CompareTag("lava"))
+        {
+            muerte();
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D collider)
+    {
+        if (collider.gameObject.CompareTag("deathZone"))
+        {
+            muerte();
+        }
+
+    }
+
+    public void muerte()
+    {
+        enSuelo = true;
+        controller.textoVida.text = "0";
+        animator.SetTrigger("death");
+        estaMuerto = true;
     }
 }

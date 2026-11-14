@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Suelo
+  - suelo
+  - agua
+  - nieve
+  - lava
+  - deathZone
   layers:
   - Default
   - TransparentFX
