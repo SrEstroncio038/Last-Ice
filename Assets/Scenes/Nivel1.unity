@@ -433,8 +433,6 @@ PrefabInstance:
       propertyPath: velocidad
       value: 5
       objectReference: {fileID: 0}
-<<<<<<< Updated upstream
-=======
     - target: {fileID: -8997562620773537493, guid: 47f4632ba1b6e854da0145fc66a115c1, type: 3}
       propertyPath: desplacamiento.x
       value: 10
@@ -443,7 +441,6 @@ PrefabInstance:
       propertyPath: puntoB.y
       value: 0
       objectReference: {fileID: 0}
->>>>>>> Stashed changes
     - target: {fileID: 3870855782616615168, guid: 47f4632ba1b6e854da0145fc66a115c1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 30
@@ -5047,19 +5044,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7099813547427405517, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< Updated upstream
-      value: -432.04
-      objectReference: {fileID: 0}
-    - target: {fileID: 7099813547427405517, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -297.46
-=======
       value: -443.32
       objectReference: {fileID: 0}
     - target: {fileID: 7099813547427405517, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -297.6
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 7692565803836623261, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_SizeDelta.x
@@ -5071,19 +5060,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7692565803836623261, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_AnchoredPosition.x
-<<<<<<< Updated upstream
-      value: -443.21
-      objectReference: {fileID: 0}
-    - target: {fileID: 7692565803836623261, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -297.2
-=======
       value: -432.08
       objectReference: {fileID: 0}
     - target: {fileID: 7692565803836623261, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: -297.31
->>>>>>> Stashed changes
       objectReference: {fileID: 0}
     - target: {fileID: 8192818295317885912, guid: 1105c90399589f945b0739b0d580b04a, type: 3}
       propertyPath: m_SizeDelta.x
