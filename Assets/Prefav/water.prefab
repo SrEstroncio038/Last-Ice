@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2848386487185826163}
   - component: {fileID: 8893067910751960916}
   - component: {fileID: 3230476345630013838}
+  - component: {fileID: 2458401987700400476}
   m_Layer: 0
   m_Name: water
   m_TagString: agua
@@ -139,3 +140,16 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 5.09, y: 5.25}
   m_EdgeRadius: 0
+--- !u!114 &2458401987700400476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3044388570777740103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e67973e6760b5341b35e9ca3586858e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::enAgua
+  controller: {fileID: 0}

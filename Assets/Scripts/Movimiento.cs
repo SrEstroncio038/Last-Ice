@@ -25,35 +25,33 @@ public class scriptMovimiento : MonoBehaviour
     {
         if (!estaMuerto)
         {
-            if (int.Parse(controller.textoVida.text) > 0 )
-        {
-            Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
-            rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
-            animator.SetFloat("velocidad", Mathf.Abs(rb.linearVelocityX));
-            if (input.x > 0)
+            if (int.Parse(controller.textoVida.text) > 0)
             {
-                sr.flipX = false;
+                Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
+                rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
+                animator.SetFloat("velocidad", Mathf.Abs(rb.linearVelocityX));
+                if (input.x > 0)
+                {
+                    sr.flipX = false;
 
-            }
-            else if (input.x < 0)
-            {
-                sr.flipX = true;
-            }
+                }
+                else if (input.x < 0)
+                {
+                    sr.flipX = true;
+                }
 
-            if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
+                if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
+                {
+                    rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
+                    enSuelo = false;
+                }
+            }
+            else
             {
-                rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
-                enSuelo = false;
+               muerte();
             }
         }
-        else
-        {
-            controller.textoVida.text = "0";
-            animator.SetTrigger("death");
-            estaMuerto = true;
-        }
-        }
-        
+
 
 
     }
@@ -66,9 +64,7 @@ public class scriptMovimiento : MonoBehaviour
         }
         if (collision.gameObject.CompareTag("lava"))
         {
-            enSuelo = true;
-            controller.textoVida.text = "0";
-            animator.SetTrigger("death");
+            muerte();
         }
     }
 
@@ -76,9 +72,16 @@ public class scriptMovimiento : MonoBehaviour
     {
         if (collider.gameObject.CompareTag("deathZone"))
         {
-            controller.textoVida.text = "0";
-            animator.SetTrigger("death");
+            muerte();
         }
 
+    }
+
+    public void muerte()
+    {
+        enSuelo = true;
+        controller.textoVida.text = "0";
+        animator.SetTrigger("death");
+        estaMuerto = true;
     }
 }

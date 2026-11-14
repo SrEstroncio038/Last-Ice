@@ -8,9 +8,9 @@ public class UIController : MonoBehaviour
 
     public int nivel;
 
-    public bool curando;
+    [HideInInspector] public bool curando;
 
-    public bool enAgua;
+    [HideInInspector] public bool enAgua;
 
     void Start()
     {
@@ -77,4 +77,6 @@ public class UIController : MonoBehaviour
         textoVida.text = nuevaVida.ToString();
 
     }
+
+    
 }

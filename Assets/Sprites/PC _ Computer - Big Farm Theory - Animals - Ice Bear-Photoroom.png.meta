@@ -1,0 +1,3122 @@
+fileFormatVersion: 2
+guid: bfa54131ebad03041910728867f84492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5723849834780496915
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_0
+  - first:
+      213: 8872391089819340470
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_1
+  - first:
+      213: 4135753959241006488
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_2
+  - first:
+      213: -2746393293548323893
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_3
+  - first:
+      213: 4111626368173781284
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_4
+  - first:
+      213: -3867993459812953594
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_5
+  - first:
+      213: 3247784226160757266
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_6
+  - first:
+      213: -8365903675315333238
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_7
+  - first:
+      213: 5672751139362916105
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_8
+  - first:
+      213: 7894248258906592223
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_9
+  - first:
+      213: 8622243121854366319
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_10
+  - first:
+      213: -125122731172978842
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_11
+  - first:
+      213: -8927118169040126114
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_12
+  - first:
+      213: -4080208649733722272
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_13
+  - first:
+      213: -7810707861557118070
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_14
+  - first:
+      213: 4435689636537679503
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_15
+  - first:
+      213: 3646683426119791944
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_16
+  - first:
+      213: -4302786045900328238
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_17
+  - first:
+      213: 1656586008273975668
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_18
+  - first:
+      213: -6231291035574634773
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_19
+  - first:
+      213: 7086038019454732445
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_20
+  - first:
+      213: 3706444695824411433
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_21
+  - first:
+      213: 1353587561699540805
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_22
+  - first:
+      213: -2260393493507426239
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_23
+  - first:
+      213: 8953460334167039832
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_24
+  - first:
+      213: -4548875948795785690
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_25
+  - first:
+      213: 1944476774608035684
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_26
+  - first:
+      213: 2727515602932788414
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_27
+  - first:
+      213: -3995783437467305751
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_28
+  - first:
+      213: -6595898765534340267
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_29
+  - first:
+      213: -2861162792875937508
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_30
+  - first:
+      213: -4159951591578579622
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_31
+  - first:
+      213: -7275830226766433512
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_32
+  - first:
+      213: -165610724444763327
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_33
+  - first:
+      213: 3479665902199187495
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_34
+  - first:
+      213: -1320962580616677595
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_35
+  - first:
+      213: -4671320688513464472
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_36
+  - first:
+      213: -5702278402564969562
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_37
+  - first:
+      213: -8123861812062425917
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_38
+  - first:
+      213: -2708678605198246215
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_39
+  - first:
+      213: 5438517631235594001
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_40
+  - first:
+      213: -8920757987998701445
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_41
+  - first:
+      213: -5248984399504004344
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_42
+  - first:
+      213: -2597316854724471495
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_43
+  - first:
+      213: 4072330443940899564
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_44
+  - first:
+      213: -3270350176281988219
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_45
+  - first:
+      213: 6998869357071237630
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_46
+  - first:
+      213: 818999570314835362
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_47
+  - first:
+      213: 5903029431744167631
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_48
+  - first:
+      213: -6466150075413922009
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_49
+  - first:
+      213: -7870381603936648975
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_50
+  - first:
+      213: 4355719531969173264
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_51
+  - first:
+      213: 2947529392692885559
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_52
+  - first:
+      213: 3093258489181277181
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_53
+  - first:
+      213: 2115464099224686016
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_54
+  - first:
+      213: -6616826244545726979
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_55
+  - first:
+      213: 8306615718492675959
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_56
+  - first:
+      213: -7425311177379091225
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_57
+  - first:
+      213: 7180122749279775926
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_58
+  - first:
+      213: 2791739642565385389
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_59
+  - first:
+      213: 6753963419716708131
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_60
+  - first:
+      213: -1469911870181976369
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_61
+  - first:
+      213: 1394006698209893946
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_62
+  - first:
+      213: 8495261267612452174
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_63
+  - first:
+      213: 2762425894795077076
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_64
+  - first:
+      213: -4657007790974758555
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_65
+  - first:
+      213: -1791120203879739299
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_66
+  - first:
+      213: -5951959410275249461
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_67
+  - first:
+      213: 1218368159111858204
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_68
+  - first:
+      213: 7088345099655009189
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_69
+  - first:
+      213: 6083712416469410746
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_70
+  - first:
+      213: -7616808577016159667
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_71
+  - first:
+      213: -6519461178980105853
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_72
+  - first:
+      213: -7698609031066696504
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_73
+  - first:
+      213: 2543306629195202607
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_74
+  - first:
+      213: -4288810729988749797
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_75
+  - first:
+      213: 3263940630901162148
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_76
+  - first:
+      213: -2263430316701134726
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_77
+  - first:
+      213: -802686126568781934
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_78
+  - first:
+      213: -1055244334740952987
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_79
+  - first:
+      213: 2212090138680487463
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_80
+  - first:
+      213: 8569650589289614778
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_81
+  - first:
+      213: -6238448896562496586
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_82
+  - first:
+      213: -8196033731410117635
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_83
+  - first:
+      213: 4250633003529173813
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_84
+  - first:
+      213: -1360418419685417205
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_85
+  - first:
+      213: 5462110843518253720
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_86
+  - first:
+      213: 8192431183653322811
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_87
+  - first:
+      213: -193855810562364524
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_88
+  - first:
+      213: 3734817428752223583
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_89
+  - first:
+      213: -962157508242316515
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_90
+  - first:
+      213: 1616571448459792061
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_91
+  - first:
+      213: -7526210109918526219
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_92
+  - first:
+      213: 6852205606233969713
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_93
+  - first:
+      213: 8857864665299023490
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_94
+  - first:
+      213: -5123968489638998986
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_95
+  - first:
+      213: 7898634868249023517
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_96
+  - first:
+      213: 485609570597396101
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_97
+  - first:
+      213: 7623994773494830223
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_98
+  - first:
+      213: 8326803297611273265
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_99
+  - first:
+      213: -114662949019047828
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_100
+  - first:
+      213: 8114608321509141041
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_101
+  - first:
+      213: 4595444451597527112
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_102
+  - first:
+      213: -4842101647050210514
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_103
+  - first:
+      213: 567556197675784970
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_104
+  - first:
+      213: -4081955367806349283
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_105
+  - first:
+      213: -5505654108970159383
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_106
+  - first:
+      213: 8649093528351886054
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_107
+  - first:
+      213: 1758827536588592076
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_108
+  - first:
+      213: 2905099255585922758
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_109
+  - first:
+      213: 8296843469315324075
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_110
+  - first:
+      213: 3151627105679361932
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_111
+  - first:
+      213: 4445980447020341212
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_112
+  - first:
+      213: 3509328488157355411
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_113
+  - first:
+      213: 6140748729665997882
+    second: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_114
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1145
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debea3ac6ecc090b0800000000000000
+      internalID: -5723849834780496915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1145
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bec50130b0112b70800000000000000
+      internalID: 8872391089819340470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1145
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89db9f25056256930800000000000000
+      internalID: 4135753959241006488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1145
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb798cb9d9d2e9d0800000000000000
+      internalID: -2746393293548323893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1182
+        width: 36
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421b024c56e6f0930800000000000000
+      internalID: 4111626368173781284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1070
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602905a1170225ac0800000000000000
+      internalID: -3867993459812953594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1070
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21acd63db82721d20800000000000000
+      internalID: 3247784226160757266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1070
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87d1b78ee656eb80800000000000000
+      internalID: -8365903675315333238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1070
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9074be01b19a9be40800000000000000
+      internalID: 5672751139362916105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1070
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd39fd847f00e8d60800000000000000
+      internalID: 7894248258906592223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1070
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f624f2dcf6c58a770800000000000000
+      internalID: 8622243121854366319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 978
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9b17f989734ef0800000000000000
+      internalID: -125122731172978842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 978
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f7d6ab2518c1480800000000000000
+      internalID: -8927118169040126114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 978
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f2527d9df2067c0800000000000000
+      internalID: -4080208649733722272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 978
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b7983359aca9390800000000000000
+      internalID: -7810707861557118070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 978
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8eb5bf193cbe8d30800000000000000
+      internalID: 4435689636537679503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 978
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845bc2e414f9b9230800000000000000
+      internalID: 3646683426119791944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 925
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d27a9d63ee6944c0800000000000000
+      internalID: -4302786045900328238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 925
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4797d0392306df610800000000000000
+      internalID: 1656586008273975668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 925
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be67f7461d10689a0800000000000000
+      internalID: -6231291035574634773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 926
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d980386090aa65260800000000000000
+      internalID: 7086038019454732445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 925
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bae3230dfef6330800000000000000
+      internalID: 3706444695824411433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 925
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ffc7b37b8e8c210800000000000000
+      internalID: 1353587561699540805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 925
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148b2eef71871a0e0800000000000000
+      internalID: -2260393493507426239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 925
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f93988cb4114c70800000000000000
+      internalID: 8953460334167039832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 926
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e85b0fc652fd0c0800000000000000
+      internalID: -4548875948795785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 925
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f5280035b2cfa10800000000000000
+      internalID: 1944476774608035684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 875
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebce4286df41ad520800000000000000
+      internalID: 2727515602932788414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 876
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e83f5a52202c88c0800000000000000
+      internalID: -3995783437467305751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 875
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b53e1f409a674a0800000000000000
+      internalID: -6595898765534340267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 876
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11b016599b1b48d0800000000000000
+      internalID: -2861162792875937508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 875
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d432d5112e446c0800000000000000
+      internalID: -4159951591578579622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 875
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813798f25fe070b90800000000000000
+      internalID: -7275830226766433512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 876
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b897e6ce1a3bdf0800000000000000
+      internalID: -165610724444763327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 876
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7282f95b3b14a4030800000000000000
+      internalID: 3479665902199187495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 876
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52772cc188ffaade0800000000000000
+      internalID: -1320962580616677595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 875
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867c83165922c2fb0800000000000000
+      internalID: -4671320688513464472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 826
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ababbc31007dd0b0800000000000000
+      internalID: -5702278402564969562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 826
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc68a759be324f80800000000000000
+      internalID: -8123861812062425917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 826
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be3576e827d86ad0800000000000000
+      internalID: -2708678605198246215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 826
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171f7a98fe797b40800000000000000
+      internalID: 5438517631235594001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 731
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78eb16cfd9133480800000000000000
+      internalID: -8920757987998701445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 731
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b2ffbbf7cd727b0800000000000000
+      internalID: -5248984399504004344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 731
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9355301f41a74fbd0800000000000000
+      internalID: -2597316854724471495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 731
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea2b1f66f2d38830800000000000000
+      internalID: 4072330443940899564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 731
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583739b77d16d92d0800000000000000
+      internalID: -3270350176281988219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 730
+        width: 76
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef10991499af02160800000000000000
+      internalID: 6998869357071237630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 730
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a530db15cbad5b00800000000000000
+      internalID: 818999570314835362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 731
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce79c91ef5cbe150800000000000000
+      internalID: 5903029431744167631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 731
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f769af3ce9346a0800000000000000
+      internalID: -6466150075413922009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 731
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0469a51a9c6c290800000000000000
+      internalID: -7870381603936648975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 636
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d04436df927c30800000000000000
+      internalID: 4355719531969173264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 636
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387b70bd5ab7e820800000000000000
+      internalID: 2947529392692885559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 636
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb8c1605367dea20800000000000000
+      internalID: 3093258489181277181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 636
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0169d363ab5d10800000000000000
+      internalID: 2115464099224686016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 636
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5be59869f4c24a0800000000000000
+      internalID: -6616826244545726979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 636
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f9e625cf6074370800000000000000
+      internalID: 8306615718492675959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 636
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ece49d33def3f890800000000000000
+      internalID: -7425311177379091225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 636
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bca58a399be4a360800000000000000
+      internalID: 7180122749279775926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 635
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac5c74e9604eb620800000000000000
+      internalID: 2791739642565385389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 636
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327623a32f5eabd50800000000000000
+      internalID: 6753963419716708131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 540
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc65ca621f2d99be0800000000000000
+      internalID: -1469911870181976369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 541
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed05dc4b1885310800000000000000
+      internalID: 1394006698209893946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 540
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45cc22fc1b35e570800000000000000
+      internalID: 8495261267612452174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 540
+        width: 71
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5e99127bb165620800000000000000
+      internalID: 2762425894795077076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 541
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56119b6861cfe5fb0800000000000000
+      internalID: -4657007790974758555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 541
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5019b11aa9a427e0800000000000000
+      internalID: -1791120203879739299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 541
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc210018374666da0800000000000000
+      internalID: -5951959410275249461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 541
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c184281b26388e010800000000000000
+      internalID: 1218368159111858204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 541
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3515eff4cde5260800000000000000
+      internalID: 7088345099655009189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 541
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3ea4bb530bd6450800000000000000
+      internalID: 6083712416469410746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 446
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42adcc64f8ab4690800000000000000
+      internalID: -7616808577016159667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 446
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38101fb69983685a0800000000000000
+      internalID: -6519461178980105853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 446
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c7ae00eb092590800000000000000
+      internalID: -7698609031066696504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 446
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20831c77e3ab4320800000000000000
+      internalID: 2543306629195202607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 446
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16032a3d551b74c0800000000000000
+      internalID: -4288810729988749797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 446
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a004d0f5b8db4d20800000000000000
+      internalID: 3263940630901162148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70dd2f7e1ea690e0800000000000000
+      internalID: -2263430316701134726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297cbbf78394cd4f0800000000000000
+      internalID: -802686126568781934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568a5845ed40b51f0800000000000000
+      internalID: -1055244334740952987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ee13fc24ce2be10800000000000000
+      internalID: 2212090138680487463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd03d79ec38de670800000000000000
+      internalID: 8569650589289614778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 335
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbf6f208c39c69a0800000000000000
+      internalID: -6238448896562496586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 335
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb3e28eeb6d14e80800000000000000
+      internalID: -8196033731410117635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b78e522384dfa30800000000000000
+      internalID: 4250633003529173813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f90c4b7a2de1de0800000000000000
+      internalID: -1360418419685417205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 335
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af6b76fd05dcb40800000000000000
+      internalID: 5462110843518253720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304d7491cc51b170800000000000000
+      internalID: 8192431183653322811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49be8c9da294f4df0800000000000000
+      internalID: -193855810562364524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc6bdd9acb4d330800000000000000
+      internalID: 3734817428752223583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13ed3f08dab5a2f0800000000000000
+      internalID: -962157508242316515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe0c7bda273f6610800000000000000
+      internalID: 1616571448459792061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f44a55d7c78d8790800000000000000
+      internalID: -7526210109918526219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 225
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134148fb1bce71f50800000000000000
+      internalID: 6852205606233969713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 225
+        width: 87
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286f1ab6bf47dea70800000000000000
+      internalID: 8857864665299023490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 224
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cc5ce7ec104e8b0800000000000000
+      internalID: -5123968489638998986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 224
+        width: 86
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d145f7c50969d9d60800000000000000
+      internalID: 7898634868249023517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 86
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58edcf2e45b3db600800000000000000
+      internalID: 485609570597396101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8418935adeddc960800000000000000
+      internalID: 7623994773494830223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 113
+        width: 86
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134dbac5b7fbe8370800000000000000
+      internalID: 8326803297611273265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 113
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6822d6c7a2a86ef0800000000000000
+      internalID: -114662949019047828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 111
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a2bfe7641ec9070800000000000000
+      internalID: 8114608321509141041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 111
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a28a816c46cf30800000000000000
+      internalID: 4595444451597527112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 113
+        width: 86
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e230d31e4366dccb0800000000000000
+      internalID: -4842101647050210514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 111
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b5980da5d50e700800000000000000
+      internalID: 567556197675784970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 113
+        width: 86
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1057e8583bf957c0800000000000000
+      internalID: -4081955367806349283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_106
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 112
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f9a212ccf793b0800000000000000
+      internalID: -5505654108970159383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 89
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea4b8a3db0c70870800000000000000
+      internalID: 8649093528351886054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_108
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d98b635c986810800000000000000
+      internalID: 1758827536588592076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 95
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce537e816cf05820800000000000000
+      internalID: 2905099255585922758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_110
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 85
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba83f814d2f442370800000000000000
+      internalID: 8296843469315324075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87c2829724dcbb20800000000000000
+      internalID: 3151627105679361932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7daf629ab43bd30800000000000000
+      internalID: 4445980447020341212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d17c0baa3a3b030800000000000000
+      internalID: 3509328488157355411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_114
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 87
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c4cae3f62583550800000000000000
+      internalID: 6140748729665997882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_0: -5723849834780496915
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_1: 8872391089819340470
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_10: 8622243121854366319
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_100: -114662949019047828
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_101: 8114608321509141041
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_102: 4595444451597527112
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_103: -4842101647050210514
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_104: 567556197675784970
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_105: -4081955367806349283
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_106: -5505654108970159383
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_107: 8649093528351886054
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_108: 1758827536588592076
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_109: 2905099255585922758
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_11: -125122731172978842
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_110: 8296843469315324075
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_111: 3151627105679361932
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_112: 4445980447020341212
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_113: 3509328488157355411
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_114: 6140748729665997882
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_12: -8927118169040126114
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_13: -4080208649733722272
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_14: -7810707861557118070
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_15: 4435689636537679503
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_16: 3646683426119791944
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_17: -4302786045900328238
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_18: 1656586008273975668
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_19: -6231291035574634773
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_2: 4135753959241006488
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_20: 7086038019454732445
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_21: 3706444695824411433
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_22: 1353587561699540805
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_23: -2260393493507426239
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_24: 8953460334167039832
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_25: -4548875948795785690
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_26: 1944476774608035684
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_27: 2727515602932788414
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_28: -3995783437467305751
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_29: -6595898765534340267
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_3: -2746393293548323893
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_30: -2861162792875937508
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_31: -4159951591578579622
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_32: -7275830226766433512
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_33: -165610724444763327
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_34: 3479665902199187495
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_35: -1320962580616677595
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_36: -4671320688513464472
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_37: -5702278402564969562
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_38: -8123861812062425917
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_39: -2708678605198246215
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_4: 4111626368173781284
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_40: 5438517631235594001
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_41: -8920757987998701445
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_42: -5248984399504004344
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_43: -2597316854724471495
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_44: 4072330443940899564
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_45: -3270350176281988219
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_46: 6998869357071237630
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_47: 818999570314835362
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_48: 5903029431744167631
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_49: -6466150075413922009
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_5: -3867993459812953594
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_50: -7870381603936648975
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_51: 4355719531969173264
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_52: 2947529392692885559
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_53: 3093258489181277181
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_54: 2115464099224686016
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_55: -6616826244545726979
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_56: 8306615718492675959
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_57: -7425311177379091225
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_58: 7180122749279775926
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_59: 2791739642565385389
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_6: 3247784226160757266
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_60: 6753963419716708131
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_61: -1469911870181976369
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_62: 1394006698209893946
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_63: 8495261267612452174
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_64: 2762425894795077076
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_65: -4657007790974758555
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_66: -1791120203879739299
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_67: -5951959410275249461
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_68: 1218368159111858204
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_69: 7088345099655009189
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_7: -8365903675315333238
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_70: 6083712416469410746
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_71: -7616808577016159667
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_72: -6519461178980105853
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_73: -7698609031066696504
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_74: 2543306629195202607
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_75: -4288810729988749797
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_76: 3263940630901162148
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_77: -2263430316701134726
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_78: -802686126568781934
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_79: -1055244334740952987
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_8: 5672751139362916105
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_80: 2212090138680487463
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_81: 8569650589289614778
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_82: -6238448896562496586
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_83: -8196033731410117635
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_84: 4250633003529173813
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_85: -1360418419685417205
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_86: 5462110843518253720
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_87: 8192431183653322811
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_88: -193855810562364524
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_89: 3734817428752223583
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_9: 7894248258906592223
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_90: -962157508242316515
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_91: 1616571448459792061
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_92: -7526210109918526219
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_93: 6852205606233969713
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_94: 8857864665299023490
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_95: -5123968489638998986
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_96: 7898634868249023517
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_97: 485609570597396101
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_98: 7623994773494830223
+      PC _ Computer - Big Farm Theory - Animals - Ice Bear-Photoroom_99: 8326803297611273265
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
