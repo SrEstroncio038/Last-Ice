@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 429469647123799928}
   - component: {fileID: 4356988972935902840}
   - component: {fileID: 6719344092569413786}
-  - component: {fileID: 313421209362782376}
   m_Layer: 0
   m_Name: Plataforma movil
   m_TagString: suelo
@@ -567,21 +566,6 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
---- !u!114 &313421209362782376
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4485082268586905857}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d869cfa291ee19045ac678d4339803d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  puntoA: {x: 0, y: 0}
-  puntoB: {x: 5, y: 5}
-  velocidad: 2
 --- !u!1 &9137989309923203338
 GameObject:
   m_ObjectHideFlags: 0
@@ -592,6 +576,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3870855782616615168}
   - component: {fileID: 2363436391618397114}
+  - component: {fileID: -8997562620773537493}
   m_Layer: 0
   m_Name: plataformaMovil
   m_TagString: Untagged
@@ -627,3 +612,17 @@ Grid:
   m_CellGap: {x: 0, y: 0, z: 0}
   m_CellLayout: 0
   m_CellSwizzle: 0
+--- !u!114 &-8997562620773537493
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9137989309923203338}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d869cfa291ee19045ac678d4339803d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Plataforma_movil
+  puntoB: {x: 0, y: 0}
+  velocidad: 2
