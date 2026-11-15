@@ -10,6 +10,9 @@ public class scriptMovimiento : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private Animator animator;
+    private AudioSource audioSource;
+    public AudioClip sonidoSalto;
+    public AudioClip sonidoMuerte;
     [SerializeField] UIController controller;
     private bool estaMuerto = false;
     private bool enSuelo = false;
@@ -18,7 +21,7 @@ public class scriptMovimiento : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -43,6 +46,7 @@ public class scriptMovimiento : MonoBehaviour
                 if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
                 {
                     rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
+                    Saltar();
                     enSuelo = false;
                 }
             }
@@ -82,6 +86,15 @@ public class scriptMovimiento : MonoBehaviour
         enSuelo = true;
         controller.textoVida.text = "0";
         animator.SetTrigger("death");
+        audioSource.PlayOneShot(sonidoMuerte);
         estaMuerto = true;
+    }
+
+    void Saltar()
+    {
+        if (sonidoSalto != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(sonidoSalto);
+        }    
     }
 }
