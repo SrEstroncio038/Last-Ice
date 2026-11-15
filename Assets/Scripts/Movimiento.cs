@@ -1,7 +1,6 @@
 using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.InputSystem;
-using UnityEngine.Rendering;
 
 public class scriptMovimiento : MonoBehaviour
 {
@@ -43,23 +42,19 @@ public class scriptMovimiento : MonoBehaviour
                 if (input.x > 0)
                 {
                     sr.flipX = false;
-
                 }
                 else if (input.x < 0)
                 {
                     sr.flipX = true;
                 }
-
                 if (InputSystem.actions["Jump"].WasPressedThisFrame() && enSuelo)
                 {
-                    rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
                     Saltar();
-                    enSuelo = false;
                 }
             }
             else
             {
-               muerte();
+                muerte();
             }
         }
 
@@ -101,21 +96,23 @@ public class scriptMovimiento : MonoBehaviour
     {
         if (sonidoSalto != null && audioSource != null)
         {
+            rb.AddForce(transform.up * fuerzaSalto, ForceMode2D.Impulse);
             audioSource.PlayOneShot(sonidoSalto);
-        }    
+            enSuelo = false;
+        }
     }
 
     public void ReproducirSonidoCaminar()
     {
-    if (Time.time >= siguienteSonidoPermitido)
-    {
-        if (sonidoCaminar != null && audioSource != null)
+        if (Time.time >= siguienteSonidoPermitido)
         {
-            audioSource.PlayOneShot(sonidoCaminar, 0.1f);
-        }
-        
-        siguienteSonidoPermitido = Time.time + tiempoEntreSonidos;
+            if (sonidoCaminar != null && audioSource != null)
+            {
+                audioSource.PlayOneShot(sonidoCaminar, 0.1f);
+            }
+
+            siguienteSonidoPermitido = Time.time + tiempoEntreSonidos;
         }
     }
-    
+
 }
