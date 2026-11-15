@@ -737,6 +737,10 @@ PrefabInstance:
       propertyPath: sonidoMuerte
       value: 
       objectReference: {fileID: 8300000, guid: c7a06784b9d66de42a4b1dbe86f971d0, type: 3}
+    - target: {fileID: 2417508561722429691, guid: a8b1958673e0cf44db213e4d7bfa9963, type: 3}
+      propertyPath: sonidoCaminar
+      value: 
+      objectReference: {fileID: 8300000, guid: 3622cc68e5b8a9a41b59aae8d04fe486, type: 3}
     - target: {fileID: 4043748490959052369, guid: a8b1958673e0cf44db213e4d7bfa9963, type: 3}
       propertyPath: orthographic
       value: 1
@@ -1046,7 +1050,7 @@ AudioSource:
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 8300000, guid: 7a8c7850f20da3b46a3c655fee829e72, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.3
   m_Pitch: 1
   Loop: 1
   Mute: 0
