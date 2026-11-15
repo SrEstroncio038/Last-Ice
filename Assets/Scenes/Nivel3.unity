@@ -529,9 +529,10 @@ GameObject:
   - component: {fileID: 1029964451}
   - component: {fileID: 1029964450}
   - component: {fileID: 1029964452}
+  - component: {fileID: 1029964453}
   m_Layer: 0
-  m_Name: sprite_nobg (1)_11
-  m_TagString: Untagged
+  m_Name: sol
+  m_TagString: fin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -645,7 +646,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.038152695, y: 0.19076228}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -655,8 +656,20 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 3.86, y: 2.26}
+  m_Size: {x: 2.104988, y: 1.8784752}
   m_EdgeRadius: 0
+--- !u!114 &1029964453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1029964449}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: addb823e41ae13d47bd84367ea8ef2f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::solvictoria
 --- !u!1 &1132883963
 GameObject:
   m_ObjectHideFlags: 0
@@ -1990,6 +2003,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1887792239}
   - component: {fileID: 1887792238}
+  - component: {fileID: 1887792240}
+  - component: {fileID: 1887792241}
   m_Layer: 0
   m_Name: SNES - Donkey Kong Country - Chimp Caverns Stages - Platform Perils - Bonus 1_0
   m_TagString: Untagged
@@ -2072,6 +2087,65 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1887792240
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1887792237}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: -0.9710365}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.56, y: 2.37}
+    newSize: {x: 2.56, y: 2.37}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.56, y: 0.4279269}
+  m_EdgeRadius: 0
+--- !u!114 &1887792241
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1887792237}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf727829e6134842942ea5fd8b84a9d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::puentelava
+  velocidad: 2
 --- !u!1001 &2131152240
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2084,13 +2158,17 @@ PrefabInstance:
       propertyPath: m_Name
       value: MainCharacter 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3369012516489265984, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 3883190838053855073, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.97
+      value: 44.5
       objectReference: {fileID: 0}
     - target: {fileID: 3883190838053855073, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.72
+      value: -0.41
       objectReference: {fileID: 0}
     - target: {fileID: 3883190838053855073, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: m_LocalPosition.z

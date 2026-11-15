@@ -72,6 +72,7 @@ public class scriptMovimiento : MonoBehaviour
         {
             muerte();
         }
+        
     }
 
     void OnTriggerEnter2D(Collider2D collider)
@@ -80,7 +81,7 @@ public class scriptMovimiento : MonoBehaviour
         {
             muerte();
         }
-
+      
     }
 
     public void muerte()

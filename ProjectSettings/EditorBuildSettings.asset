@@ -14,5 +14,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Nivel3.unity
     guid: 849257eea05fded4a86571ccd37c10d3
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: a9157207c2da34c42b85988bce0a1690
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
