@@ -19,6 +19,8 @@ public class scriptMovimiento : MonoBehaviour
     [SerializeField] UIController controller;
     private bool estaMuerto = false;
     private bool enSuelo = false;
+
+    public int nivel;
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -85,10 +87,20 @@ public class scriptMovimiento : MonoBehaviour
 
         if (collider.gameObject.CompareTag("fin"))
         {
-            SceneManager.LoadScene("Victoria");
+            if (nivel == 3)
+            {
+                SceneManager.LoadScene("Victoria");
+            }
+            else
+            {
+                SceneManager.LoadScene("Nivel" + (nivel+1));
+            }
+
         }
 
     }
+
+
 
 
     private void CargarGameOver()

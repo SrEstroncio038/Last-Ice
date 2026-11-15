@@ -5328,6 +5328,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 2041378595481361285, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
+      propertyPath: nivel
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2041378595481361285, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: sonidoCaminar
       value: 
       objectReference: {fileID: 8300000, guid: 3622cc68e5b8a9a41b59aae8d04fe486, type: 3}
