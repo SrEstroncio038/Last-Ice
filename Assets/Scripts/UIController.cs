@@ -11,11 +11,16 @@ public class UIController : MonoBehaviour
     [HideInInspector] public bool curando;
 
     [HideInInspector] public bool enAgua;
+    private AudioSource audioSource;
+    public AudioClip sonidoDano;
+    private float tiempoEntreSonidos = 0.5f;
+    private float siguienteSonidoPermitido = 0f;
 
     void Start()
     {
         curando = false;
         enAgua = false;
+        audioSource = GetComponent<AudioSource>();
         bajarVida();
     }
 
@@ -44,6 +49,7 @@ public class UIController : MonoBehaviour
             }
             else if (enAgua)
             {
+                ReproducirSonidoDano();
                 await Awaitable.WaitForSecondsAsync(0.08f); //esperar los segundos  antes de actualizar la vida de nuevo
                 actualizarVida();
             }
@@ -78,5 +84,16 @@ public class UIController : MonoBehaviour
 
     }
 
-    
+    public void ReproducirSonidoDano()
+    {
+    if (Time.time >= siguienteSonidoPermitido)
+    {
+        if (sonidoDano != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(sonidoDano);
+        }
+        
+        siguienteSonidoPermitido = Time.time + tiempoEntreSonidos;
+        }
+    }
 }
