@@ -1,5 +1,6 @@
 using System.Runtime.CompilerServices;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 
 public class scriptMovimiento : MonoBehaviour
@@ -72,7 +73,7 @@ public class scriptMovimiento : MonoBehaviour
         {
             muerte();
         }
-        
+
     }
 
     void OnTriggerEnter2D(Collider2D collider)
@@ -81,8 +82,20 @@ public class scriptMovimiento : MonoBehaviour
         {
             muerte();
         }
-      
+
+        if (collider.gameObject.CompareTag("fin"))
+        {
+            SceneManager.LoadScene("Victoria");
+        }
+
     }
+
+
+    private void CargarGameOver()
+    {
+        SceneManager.LoadScene("Derrota");
+    }
+
 
     public void muerte()
     {
@@ -91,6 +104,8 @@ public class scriptMovimiento : MonoBehaviour
         animator.SetTrigger("death");
         audioSource.PlayOneShot(sonidoMuerte);
         estaMuerto = true;
+
+        Invoke(nameof(CargarGameOver), 2f); // Espera 2 segundos
     }
 
     public void Saltar()
