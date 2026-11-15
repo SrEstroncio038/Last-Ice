@@ -73,7 +73,7 @@ public class UIController : MonoBehaviour
         textoVida.text = nuevaVida.ToString();
     }
 
-    public async void curar()
+    public void curar()
     {
         int nuevaVida = int.Parse(textoVida.text) + 2;
         if (nuevaVida >= 100)

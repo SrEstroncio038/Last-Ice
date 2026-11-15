@@ -358,7 +358,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: -10
   m_MaskInteraction: 0
   m_Sprite: {fileID: 21300000, guid: 534dd442f9f13164280839a8801416a6, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -5179,7 +5179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9e67973e6760b5341b35e9ca3586858e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  controller: {fileID: 0}
+  controller: {fileID: 1846742908}
 --- !u!1 &1769728434
 GameObject:
   m_ObjectHideFlags: 0
@@ -5190,6 +5190,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1769728436}
   - component: {fileID: 1769728435}
+  - component: {fileID: 1769728437}
   m_Layer: 0
   m_Name: refugio final
   m_TagString: fin
@@ -5272,6 +5273,52 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1769728437
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1769728434}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.33, y: 6.36}
+    newSize: {x: 1.33, y: 6.36}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1.33, y: 6.36}
+  m_EdgeRadius: 0
 --- !u!1001 &1808592303
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5280,9 +5327,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2041378595481361285, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
+      propertyPath: sonidoCaminar
+      value: 
+      objectReference: {fileID: 8300000, guid: 3622cc68e5b8a9a41b59aae8d04fe486, type: 3}
     - target: {fileID: 2138457596090932267, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: orthographic size
       value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3330457587855500430, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
+      propertyPath: m_SortingOrder
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3369012516489265984, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
       propertyPath: m_Name
@@ -5361,6 +5416,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3883190838053855073, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
   m_PrefabInstance: {fileID: 1808592303}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1846742908 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 2352284977272045192, guid: 38f5a662bd547934b86968ae9e4e5da5, type: 3}
+  m_PrefabInstance: {fileID: 1808592303}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5afdd80fe18670248bba26e167f9d4c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::vida
 --- !u!1 &1874753944
 GameObject:
   m_ObjectHideFlags: 0
@@ -5635,7 +5701,7 @@ PrefabInstance:
     - target: {fileID: 538512957063472242, guid: 9a31ef11f09bccb429c3adb638670964, type: 3}
       propertyPath: controller
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1846742908}
     - target: {fileID: 964425278526712083, guid: 9a31ef11f09bccb429c3adb638670964, type: 3}
       propertyPath: m_Name
       value: snow
