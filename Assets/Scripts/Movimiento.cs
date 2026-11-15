@@ -13,6 +13,9 @@ public class scriptMovimiento : MonoBehaviour
     private AudioSource audioSource;
     public AudioClip sonidoSalto;
     public AudioClip sonidoMuerte;
+    public AudioClip sonidoCaminar;
+    private float tiempoEntreSonidos = 0.3f;
+    private float siguienteSonidoPermitido = 0f;
     [SerializeField] UIController controller;
     private bool estaMuerto = false;
     private bool enSuelo = false;
@@ -33,6 +36,10 @@ public class scriptMovimiento : MonoBehaviour
                 Vector2 input = InputSystem.actions["Move"].ReadValue<Vector2>();
                 rb.linearVelocity = new Vector2(input.x * velocidad, rb.linearVelocity.y);
                 animator.SetFloat("velocidad", Mathf.Abs(rb.linearVelocityX));
+                if (Mathf.Abs(input.x) > 0.1f && enSuelo)
+                {
+                    ReproducirSonidoCaminar();
+                }
                 if (input.x > 0)
                 {
                     sr.flipX = false;
@@ -90,11 +97,25 @@ public class scriptMovimiento : MonoBehaviour
         estaMuerto = true;
     }
 
-    void Saltar()
+    public void Saltar()
     {
         if (sonidoSalto != null && audioSource != null)
         {
             audioSource.PlayOneShot(sonidoSalto);
         }    
     }
+
+    public void ReproducirSonidoCaminar()
+    {
+    if (Time.time >= siguienteSonidoPermitido)
+    {
+        if (sonidoCaminar != null && audioSource != null)
+        {
+            audioSource.PlayOneShot(sonidoCaminar, 0.1f);
+        }
+        
+        siguienteSonidoPermitido = Time.time + tiempoEntreSonidos;
+        }
+    }
+    
 }
